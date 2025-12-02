@@ -36,13 +36,10 @@ I care about clean pipelines, well-engineered features, and tools that actually 
 - Optimize models with feature engineering, hyperparameter tuning & evaluation  
 
 ---
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=maik122&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maik122&layout=compact&theme=radical)
-![Activity](https://github-readme-activity-graph.cyclic.app/graph?username=maik122\&theme=react-dark)
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=maik122&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=maik122&theme=one_dark_pro&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=maik122&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
