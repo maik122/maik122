@@ -4,7 +4,7 @@
 </p>
 
 # Hi, I’m Mai 👋
-Computer Science graduate & Machine Learning Engineer who builds practical ML systems — from prediction and forecasting to NLP and computer vision.  
+Computer Science graduate & Machine Learning Engineer who builds practical ML systems , from prediction and forecasting to NLP and computer vision.  
 
 I care about clean pipelines, well-engineered features, and tools that actually solve problems.
 
