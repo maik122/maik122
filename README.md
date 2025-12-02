@@ -1,9 +1,9 @@
 <!-- Banner/Header -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Max-ML%20Engineer-blue?style=for-the-badge&logo=github" alt="Banner">
+  <img src="https://img.shields.io/badge/Mai-ML%20Engineer-blue?style=for-the-badge&logo=github" alt="Banner">
 </p>
 
-# Hi, I’m Max 👋
+# Hi, I’m Mai 👋
 Computer Science graduate & Machine Learning Engineer who builds practical ML systems — from prediction and forecasting to NLP and computer vision.  
 
 I care about clean pipelines, well-engineered features, and tools that actually solve problems.
