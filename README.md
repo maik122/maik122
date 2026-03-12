@@ -51,5 +51,5 @@ I care about clean pipelines, well-engineered features, and tools that actually 
 ## 🌟 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mai-k-30b040192/) 
 [![Kaggle](https://img.shields.io/badge/Kaggle-%23007ACC?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/maik02) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF6F61?style=for-the-badge&logo=google-chrome&logoColor=white)](https://maik122.github.io/#CV)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF6F61?style=for-the-badge&logo=google-chrome&logoColor=white)](https://maikassem.vercel.app)
 
