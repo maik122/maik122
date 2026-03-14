@@ -8,7 +8,7 @@
 
 ## About Me
 
-Computer Science graduate & Machine Learning Engineer who builds practical ML systems — from prediction and forecasting to NLP and computer vision.
+Computer Science graduate & Machine Learning Engineer who builds practical ML systems , from prediction and forecasting to NLP and computer vision.
 
 I care about clean pipelines, well-engineered features, and tools that actually solve problems.
 
@@ -36,7 +36,6 @@ I care about clean pipelines, well-engineered features, and tools that actually 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
